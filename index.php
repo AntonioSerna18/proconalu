@@ -29,7 +29,7 @@
 
 <body>
 
-    <div class="container mt-5">
+    <div class="container-fluid mt-5">
 
         <div class="card">
 
@@ -45,7 +45,7 @@
 
                 <a href="excel/exportar.php" class="btn btn-danger">Exportar lista de alumnos a Excel</a>
 
-                <table class="table table-striped table-hover mt-3">
+                <table class="table table-striped table-hover mt-3 table-sm table-responsive table-responsive-sm">
                     <thead class="thead-dark">
                         <tr>
                             <th>Matricula</th>
